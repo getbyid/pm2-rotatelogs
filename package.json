@@ -1,0 +1,24 @@
+{
+  "name": "pm2-rotatelogs",
+  "version": "1.0.0",
+  "description": "Split PM2 log files by time range",
+  "author": "Pavel Zheleznov",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "pm2",
+    "logrotate",
+    "cluster",
+    "logs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pvzh/pm2-rotatelogs.git"
+  },
+  "dependencies": {
+    "pm2": "=4.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
