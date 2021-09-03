@@ -1,6 +1,6 @@
 {
   "name": "pm2-rotatelogs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Split PM2 log files by time range",
   "author": "Pavel Zheleznov",
   "license": "MIT",
